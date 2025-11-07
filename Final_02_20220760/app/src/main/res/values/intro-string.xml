@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="introP">
+        <item>분반 : 02분반</item>
+        <item>학번 : 20220760</item>
+        <item>성명 : 류소연</item>
+        <item>MBTI : ISTP</item>
+    </string-array>
+</resources>
